@@ -115,6 +115,5 @@ project-management-tool/
 
 
 ## 👨‍💻 Author
-
-Siddharth Sawarkar
+Harshit Shrivastava 
 
